@@ -5,7 +5,7 @@
 
      <body>  
       <h1> khadija </h1>  
-      <p><?php echo 'hello'  ?></p>  
+      <p><?php echo 'hello' hhhh  ?></p>  
       <?  
        $database ="mydb";  
        $user = "root";  
